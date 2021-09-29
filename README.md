@@ -1,4 +1,4 @@
-# purple-team-stuff
+# Purple Team
 Will be adding more resources in the future for references. Not gonna be adding SIEMs, this should be part of your daily work and is up to you to train yourself on.
 
 ## Core tools
@@ -15,6 +15,8 @@ Time to grow some grey hairs
 * eCIR
 * Chris Sanders' Practical Threat Hunting course - https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/
 * Active Countermeasures - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
+* AttackIQ Academy
+* MITRE Engenuity
 * CySA+
 
 ### Red Team
@@ -43,4 +45,7 @@ To know what you're looking for, you need some red team knowledge too.
 * IRed Team - https://ired.team
 
 ## Active Directory
-AD Security - https://adsecurity.org/
+* AD Security - https://adsecurity.org/
+* Home labs for AD - https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/
+* Pentesting LDAP - https://book.hacktricks.xyz/pentesting/pentesting-ldap
+* AD Methodology - https://book.hacktricks.xyz/windows/active-directory-methodology/
