@@ -17,7 +17,6 @@ Time to grow some grey hairs
 * Active Countermeasures - https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
 * AttackIQ Academy
 * MITRE Engenuity
-* CySA+
 
 ### Red Team
 To know what you're looking for, you need some red team knowledge too.
@@ -37,6 +36,9 @@ To know what you're looking for, you need some red team knowledge too.
 * Hybrid Analysis
 * Any Run
 * Cuckoo Sandbox
+
+## Threat Hunting Methodlogies
+* Recommended tools and hunt paths for scenarios - https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts
 
 ## Red Team & APT resources
 * vx-underground - https://vx-underground.org/
