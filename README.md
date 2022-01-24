@@ -37,7 +37,7 @@ To know what you're looking for, you need some red team knowledge too.
 * Any Run
 * Cuckoo Sandbox
 
-## Threat Hunting Methodlogies
+## Threat Hunting Methodologies
 * Recommended tools and hunt paths for scenarios - https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts
 
 ## Red Team & APT resources
