@@ -7,16 +7,20 @@ Writing this as my personal notes for knowledge resources I will approach in a r
 * FireEye Freeware - https://www.fireeye.com/services/freeware.html
 * Wireshark - https://www.wireshark.org/
 * SysInternals - https://docs.microsoft.com/en-us/sysinternals/
+* IDA - https://hex-rays.com/ida-pro/
 
 ## Certifications, Courses & Books
 ### Blue Team
 * eCTHP
 * eCRE
 * eCIR
+* SANS FOR610
 * Chris Sanders' Practical Threat Hunting course - https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/
 * Practical Malware Analysis by by Andrew Honig and Michael Sikorski
 * Malware Analysis And Detection Engineering A Comprehensive Approach To Detect And Analyze Modern Malware by Abhijit Mohanta, Anoop Saldanha
-* SANS FOR610
+* The IDA Pro Book, 2nd Edition: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle
+* Windows Internals, Part 1 System architecture, processes, threads, memory management, and more by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon
+
 
 ### Red Team
 To know what you're looking for, you need some red team knowledge too.
