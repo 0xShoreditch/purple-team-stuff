@@ -21,6 +21,7 @@ Some of these are considered absolute core to building a hunting and disassembli
 * Malware Analysis And Detection Engineering A Comprehensive Approach To Detect And Analyze Modern Malware by Abhijit Mohanta, Anoop Saldanha
 * The IDA Pro Book, 2nd Edition: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle
 * Windows Internals, Part 1 System architecture, processes, threads, memory management, and more by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon
+* SANS Malware Analysis Playlist - https://www.youtube.com/playlist?list=PLfouvuAjspToULN9r9cmQqgDwZzsqH05w
 
 
 ### Red Team
