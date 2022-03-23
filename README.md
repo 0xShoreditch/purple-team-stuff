@@ -1,5 +1,5 @@
 # Purple Team
-Writing this as my personal notes for knowledge resources I will approach in a roadmap.
+Writing this as my personal notes for knowledge resources I will approach in a roadmap. A number of these resources I had already purchased and/or will be studying to sharpen my skills, which I'd also recommend for others. A significant portion of the gained knowledge will be used to develop tools or rise in blog spotlights to share the lessons learned from these experiences.
 
 ## Core tools
 * YARA - https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef#18dd
@@ -10,7 +10,7 @@ Writing this as my personal notes for knowledge resources I will approach in a r
 * IDA - https://hex-rays.com/ida-pro/
 
 ## Certifications, Courses & Books
-### Blue Team
+### Defensive
 Some of these are considered absolute core to building a hunting and disassembling methodology.
 * eCTHP
 * eCRE
@@ -24,14 +24,14 @@ Some of these are considered absolute core to building a hunting and disassembli
 * SANS Malware Analysis Playlist - https://www.youtube.com/playlist?list=PLfouvuAjspToULN9r9cmQqgDwZzsqH05w
 
 
-### Red Team
+### Offensive
 To know what you're looking for, you need some red team knowledge too.
 * eCPPT/OSCP
 * OSEP
 * eCPTX
 * BC Security's courses (also known for their Empire and Starkiller implementation) - https://www.bc-security.org/
-* rastam0use's Red Team Ops (CRTO) - https://www.zeropointsecurity.co.uk/red-team-ops/overview
-* Sektor7 Malware Development - https://institute.sektor7.net/red-team-operator-malware-development-essentials
+* rastam0use's Red Team Ops (CRTO) - https://www.zeropointsecurity.co.uk/red-team-ops/overview - This will help in understanding offensive tools and techniques used by adversaries to attack Active Directory and hybrid environments.
+* Sektor7 (Various courses) - https://institute.sektor7.net/ - This aids to understand defence evasion and persistence methods used by malware authors and adversaries.
 
 ## Threat Intelligence Sources & Sandboxes
 * AlienVault - https://otx.alienvault.com/
