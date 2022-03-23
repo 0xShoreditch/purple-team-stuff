@@ -1,5 +1,5 @@
 # Purple Team
-Writing this as my personal notes for knowledge resources I will approach in a roadmap. 
+Writing this as my personal notes for knowledge resources I will approach in a roadmap.
 
 ## Core tools
 * YARA - https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef#18dd
@@ -11,6 +11,7 @@ Writing this as my personal notes for knowledge resources I will approach in a r
 
 ## Certifications, Courses & Books
 ### Blue Team
+Some of these are considered absolute core to building a hunting and disassembling methodology.
 * eCTHP
 * eCRE
 * eCIR
@@ -39,6 +40,7 @@ To know what you're looking for, you need some red team knowledge too.
 * Malware Bazaar
 * Hybrid Analysis
 * Any Run
+* Intezer
 * Cuckoo Sandbox
 
 ## Threat Hunting Methodologies
