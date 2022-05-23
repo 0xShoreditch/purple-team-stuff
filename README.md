@@ -13,16 +13,11 @@ Writing this as my personal notes for knowledge resources I will approach in a r
 ### Defensive
 Some of these are considered absolute core to building a hunting and disassembling methodology.
 * eCTHP
-* eCRE
-* eCIR
-* SANS FOR610
+* Zero2Automated Ultimate Malware Reverse Engineering
 * Chris Sanders' Practical Threat Hunting course - https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/
 * Practical Malware Analysis by by Andrew Honig and Michael Sikorski
 * Malware Analysis And Detection Engineering A Comprehensive Approach To Detect And Analyze Modern Malware by Abhijit Mohanta, Anoop Saldanha
 * The IDA Pro Book, 2nd Edition: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle
-* Windows Internals, Part 1 System architecture, processes, threads, memory management, and more by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon
-* SANS Malware Analysis Playlist - https://www.youtube.com/playlist?list=PLfouvuAjspToULN9r9cmQqgDwZzsqH05w
-
 
 ### Offensive
 To know what you're looking for, you need some red team knowledge too.
